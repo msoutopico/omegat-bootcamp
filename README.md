@@ -22,3 +22,7 @@ E: I hope all this made sense. If something wasn't clear or want to ask somethin
 Each video should include, in the comments, a link to the lesson in text, with screenshots (on github). And the lesson in text should include a link to the video.
 
 The whole course should be available as a PDF document or EPUB ebook.
+
+
+how to add capstan icon to the bottom right of a video?
+
