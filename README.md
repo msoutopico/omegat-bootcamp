@@ -4,6 +4,15 @@ Self-paced OmegaT course for language experts and project managers
 Episodes should be short, to the point, focused on one thing only, about 5 minutes 
 Solution to the exercises could be a separate episode. 
 
+Intro
+- face: why learning OmegaT? 
+-> faster turnaround
+-> better quality
+-> less suffering doing things the wrong way
+
+
+
+
 Template: 
 Opening: Hello there! Welcome to a new episode of the OmegaT tutorial. In this video we're going to be -ing... 
 So let's learn how to do that and dive down into OmegaT now.
