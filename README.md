@@ -1,2 +1,11 @@
-# omegat_course
+# OmegaT course
 OmegaT course for language experts and project managers
+
+Episodes should be short, to the point, focused on one thing only, about 5 minutes 
+Solution to the exercises could be a separate episode. 
+
+Template: 
+Opening: Hello there! Welcome to a new episode of the OmegaT tutorial. In this video we're going to be -ing... 
+So let's learn how to do that and dive down into OmegaT now.
+
+E: I hope all this made sense. If something wasn't clear or want to ask something, you can leave a question in the comments below. 
