@@ -1,5 +1,5 @@
 # OmegaT course
-OmegaT course for language experts and project managers
+Self-paced OmegaT course for language experts and project managers
 
 Episodes should be short, to the point, focused on one thing only, about 5 minutes 
 Solution to the exercises could be a separate episode. 
