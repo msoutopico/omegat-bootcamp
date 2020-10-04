@@ -10,8 +10,7 @@ Intro
 -> better quality
 -> less suffering doing things the wrong way
 
-
-
+This course is free of charge, and its purpose is to contribute to the OmegaT community and pay back for this great tool that we all own and we can can use for free.
 
 Template: 
 Opening: Hello there! Welcome to a new episode of the OmegaT tutorial. In this video we're going to be -ing... 
