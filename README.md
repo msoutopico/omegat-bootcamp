@@ -25,4 +25,7 @@ The whole course should be available as a PDF document or EPUB ebook.
 
 
 how to add capstan icon to the bottom right of a video?
+--
+Let us know in the comments what are your favourite parts of this OmegaT function or what difficultinges you're havingt to use it, because we'd love to know that.
 
+And I will see you in the next episode.
