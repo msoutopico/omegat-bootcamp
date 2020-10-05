@@ -1,6 +1,11 @@
 # OmegaT course
 Self-paced OmegaT course for language experts and project managers
 
+Requirements for the video platform:
+- unfinished episodes should resume where the user stopped watching
+- it should show what episodes were completed 
+- it should show progress of the user in case they resume some time afterwards (the user must log in)
+
 Episodes should be short, to the point, focused on one thing only, about 5 minutes 
 Solution to the exercises could be a separate episode. 
 
@@ -11,6 +16,10 @@ Intro
 -> less suffering doing things the wrong way
 
 This course is free of charge, and its purpose is to contribute to the OmegaT community and pay back for this great tool that we all own and we can can use for free.
+
+language experts = translators and reviewrs, verifiers etc.
+
+
 
 Template: 
 Opening: Hello there! Welcome to a new episode of the OmegaT tutorial. In this video we're going to be -ing... 
