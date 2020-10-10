@@ -25,7 +25,9 @@ Template:
 Opening: Hello there! Welcome to a new episode of the OmegaT tutorial. In this video we're going to be -ing... 
 So let's learn how to do that and dive down into OmegaT now.
 
-E: I hope all this made sense. If something wasn't clear or want to ask something, you can leave a question in the comments below. 
+E: I hope all this made sense. If something wasn't clear or want to ask something, you can leave a question in the comment section down below. 
+
+Also, we encourage you to subscribe to our channel so that you can get notifications when we publish new content about OmegaT.
 
 Each video should include, in the comments, a link to the lesson in text, with screenshots (on github). And the lesson in text should include a link to the video.
 
