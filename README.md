@@ -6,6 +6,9 @@ Requirements for the video platform:
 - it should show what episodes were completed 
 - it should show progress of the user in case they resume some time afterwards (the user must log in)
 
+The platform should include facility to create quizzes between the lessons.
+
+
 Episodes should be short, to the point, focused on one thing only, about 5 minutes 
 Solution to the exercises could be a separate episode. 
 
