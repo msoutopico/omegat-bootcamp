@@ -20,6 +20,6 @@ h1 {
 }
 
 h1.title {
-    border-bottom: 8px solid #57c4d0;
-    font-size: 34px;
+/*    border-bottom: 8px solid #57c4d0; */
+    font-size: 54px;
 }
