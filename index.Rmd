@@ -1,7 +1,7 @@
 ---
 title: "The OmegaT Bootcamp"
 author: "cApStAn"
-date: "`r format(today, format="%B %d %Y")`"
+date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -17,7 +17,7 @@ cover-image: img/omegat_logo.jpg
 
 >? omegat Logo
 
-# Welcome! asdf {-}
+# Welcome! {-}
 
 Welcome to the OmegaT bootcamp :-)
 
