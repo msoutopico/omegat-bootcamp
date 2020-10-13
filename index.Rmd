@@ -18,7 +18,9 @@ description: "This is a [OmegaT](https://omegat.org/) course for language expert
 
 >? omegat Logo
 
-Welcome to the OmegaT bootcamp! This is a self-paced [OmegaT](https://omegat.org/) user guide for language experts and project managers, brought to you by [cApStAn](https://www.capstan.be).
+Welcome to the OmegaT bootcamp :-)
+
+This is a self-paced [OmegaT](https://omegat.org/) user guide for language experts and project managers, brought to you by [cApStAn](https://www.capstan.be).
 
 This is an online book initially conceived and developed to train cApStAn's subcontractors (language experts, translators, reviewers and verifiers) and partners who work in OmegaT. However, it is free to use for anyone interested in learning to use OmegaT, from zero to zen.
 
