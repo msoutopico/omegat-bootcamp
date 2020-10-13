@@ -17,7 +17,7 @@ cover-image: img/omegat_logo.jpg
 
 >? omegat Logo
 
-# Welcome! no underlining {-}
+# Welcome! asdf {-}
 
 Welcome to the OmegaT bootcamp :-)
 
