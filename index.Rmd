@@ -13,17 +13,17 @@ description: "This is a [OmegaT](https://omegat.org/) course for language expert
 cover-image: img/omegat_logo.jpg
 ---
 
+>? Version info?
+
+>? omegat Logo
+
+# Welcome! {-}
+
 ![](img/omegat_logo.jpg)
 
 ```
 knitr::include_graphics('img/omegat_logo.jpg', dpi = NA)
 ```
-
->? Version info?
-
->? omegat Logo
-
-# Welcome {-}
 
 Welcome to the OmegaT bootcamp :-)
 
