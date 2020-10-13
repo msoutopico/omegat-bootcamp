@@ -5,4 +5,4 @@ _bookdown_files
 .Rhistory
 _build.sh
 _deploy.sh
-_output.yml
+#_output.yml
