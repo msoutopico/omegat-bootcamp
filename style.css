@@ -12,3 +12,9 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+h1 {
+    border-bottom: 4px solid #57c4d0;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
