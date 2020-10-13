@@ -12,7 +12,7 @@ github-repo: msoutopico/omegat-bootcamp
 description: "This is a [OmegaT](https://omegat.org/) course for language experts and project managers written using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
 ---
 
-![](images/omegat_logo.jpg)
+![](img/omegat_logo.jpg)
 
 >? Version info?
 
