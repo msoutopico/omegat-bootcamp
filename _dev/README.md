@@ -10,7 +10,7 @@ There are two possible environments you can use to manage your contributions:
 These are the steps you must follow to
 
 1. Ask the maintainer of the repository to give you PR rights (#TEST)
-2. Clone the repository in your local machine or, if you already did that, fetch the latest version.
+2. Clone the repository in your local machine or, if you already did that, fetch and pull the latest version.
 3. Make changes to the repository
 4. Stage your changed/new changed files, commit and push.
 
