@@ -18,6 +18,13 @@ These are the steps you must follow to
 git pull https://github.com/msoutopico/omegat-bootcamp.git main
 ```
 
+
+in server:
+1. Pull
+2. sude R
+3. render_site
+4. q y
+
 rmarkdown::render_site(encoding = 'UTF-8')
 
 git pull
