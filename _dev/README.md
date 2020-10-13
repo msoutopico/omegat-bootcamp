@@ -14,6 +14,24 @@ These are the steps you must follow to
 3. Make changes to the repository
 4. Stage your changed/new changed files, commit and push.
 
+```
+git pull https://github.com/msoutopico/omegat-bootcamp.git main
+```
+
+rmarkdown::render_site(encoding = 'UTF-8')
+
+git pull
+
+authenticate
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
+
+
 It's important that you fetch the latest versions every time you intend to push changes, to make sure you work on the latest version and avoid conflicts.
 
 _____
