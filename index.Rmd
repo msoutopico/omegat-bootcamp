@@ -19,13 +19,9 @@ cover-image: img/omegat_logo.jpg
 
 # Welcome! {-}
 
-![](img/omegat_logo.jpg)
-
-```
-knitr::include_graphics('img/omegat_logo.jpg', dpi = NA)
-```
-
 Welcome to the OmegaT bootcamp :-)
+
+![](img/omegat_logo.jpg)
 
 This is a self-paced [OmegaT](https://omegat.org/) user guide for language experts and project managers, brought to you by [cApStAn](https://www.capstan.be).
 
