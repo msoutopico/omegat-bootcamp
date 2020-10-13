@@ -1,6 +1,6 @@
 ---
 title: "The OmegaT Bootcamp"
-author: "cApStAn"
+author: "cApStAn\\ test"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -21,7 +21,7 @@ cover-image: img/omegat_logo.jpg
 
 Welcome to the OmegaT bootcamp :-)
 
-![](img/omegat_logo.jpg)
+[//]: # ![](img/omegat_logo.jpg)
 
 This is a self-paced [OmegaT](https://omegat.org/) user guide for language experts and project managers, brought to you by [cApStAn](https://www.capstan.be).
 
@@ -32,3 +32,9 @@ The purpose of this resource is to create a guide that is clear, simple, easy to
 You can read sequentially from beginning to end, browse through on the table of contents on the sidebar, or search by keywords. You can also download it as PDF or ePUB (to read in your eReader device) but we encourage you to refer to the book online as updates might be frequent.
 
 Contributions (suggestions for better wording, new topics, flagged typos or errata, etc.) are also welcome.
+
+## Questions
+
+* How can I format the date?
+* How can I insert an image before the first #header/title?
+* Is it possible to have an index page without a header? 
