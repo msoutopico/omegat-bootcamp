@@ -1,7 +1,6 @@
 ---
 title: "The OmegaT Bootcamp"
 author: "cApStAn"
-today <- Sys.Date()
 date: "`r format(today, format="%B %d %Y")`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
