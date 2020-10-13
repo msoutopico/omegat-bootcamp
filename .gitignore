@@ -6,4 +6,4 @@ _bookdown_files
 _build.sh
 _deploy.sh
 _output.yml
-!_bookdown.yml
+_bookdown.yml
