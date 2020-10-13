@@ -18,3 +18,9 @@ h1 {
     font-size: 24px;
     margin-bottom: 20px;
 }
+
+h1.title {
+    border-bottom: 8px solid #57c4d0;
+    font-size: 34px;
+    display: inline-block;
+}
