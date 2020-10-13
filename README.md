@@ -1,4 +1,4 @@
-# OmegaT course
+# OmegaT Bootcamp
 Self-paced OmegaT course for language experts and project managers
 
 Requirements for the video platform:
