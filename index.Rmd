@@ -1,7 +1,7 @@
 ---
 title: "The OmegaT Bootcamp"
 author: "cApStAn's Tech Team"
-date: "`r Sys.Date()`"
+date: "`r Sys.Date(), format="%B %d %Y"`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -38,3 +38,4 @@ Contributions (suggestions for better wording, new topics, flagged typos or erra
 * How can I format the date?
 * How can I insert an image before the first #header/title?
 * Is it possible to have an index page without a header?
+* Make size of title bigger
