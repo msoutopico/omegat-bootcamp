@@ -1,8 +1,9 @@
 _book.*
 _book*
 _book
-#_bookdown_files
+_bookdown_files
 .Rhistory
 _build.sh
 _deploy.sh
 _output.yml
+!_bookdown.yml
