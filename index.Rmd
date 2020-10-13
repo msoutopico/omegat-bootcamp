@@ -10,19 +10,24 @@ biblio-style: apalike
 link-citations: yes
 github-repo: msoutopico/omegat-bootcamp
 description: "This is a [OmegaT](https://omegat.org/) course for language experts and project managers written using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+cover-image: img/omegat_logo.jpg
 ---
 
 ![](img/omegat_logo.jpg)
+
+```
+knitr::include_graphics('img/omegat_logo.jpg', dpi = NA)
+```
 
 >? Version info?
 
 >? omegat Logo
 
+# Welcome {-}
+
 Welcome to the OmegaT bootcamp :-)
 
 This is a self-paced [OmegaT](https://omegat.org/) user guide for language experts and project managers, brought to you by [cApStAn](https://www.capstan.be).
-
-# Presentation
 
 This is an online book initially conceived and developed to train cApStAn's subcontractors (language experts, translators, reviewers and verifiers) and partners who work in OmegaT. However, it is free to use for anyone interested in learning to use OmegaT, from zero to zen.
 
