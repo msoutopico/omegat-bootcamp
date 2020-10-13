@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">The OmegaT Bootcamp</a></li>
       after: |
-        <li>Brought to you by <a href="https://omegat.org/" target="blank">cApStAn</a></li>
+        <li><a href="https://omegat.org/" target="blank">Brought to you by cApStAn</a></li>
     edit: https://github.com/msoutopico/omegat-bootcamp/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:

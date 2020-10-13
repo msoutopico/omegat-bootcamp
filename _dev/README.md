@@ -25,6 +25,8 @@ in server:
 3. render_site
 4. q y
 
+Do not edit files in the server 
+
 rmarkdown::render_site(encoding = 'UTF-8')
 
 git pull
