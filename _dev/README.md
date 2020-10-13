@@ -1,15 +1,22 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for how to compile this example into HTML. You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
+# Information for contributors
 
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/.
+To contribute to this repository you need to have a basic understanding of git (to push changes) and of markdown (to edit files).
 
+There are two possible environments you can use to manage your contributions:
 
-# OmegaT Bootcamp
+- [Atom editor](https://atom.io/): allows to fetch and push files as well as to preview changes in the same environment.
+- [Typora](https://atom.io/) + [Github](https://desktop.github.com/): Typora is an awesome markdown editor but you will have to manage git transfers separately (e.g. with the Github desktop app).
 
-This is a self-paced [OmegaT](https://omegat.org/) course for language experts and project managers. It is brought to you by [cApStAn](https://www.capstan.be), initially conceived and developed to train cApStAn's subcontractors (language experts, translators, reviewers and verifiers) and partners who need to use OmegaT. However, it is free to use for anyone interested in learning to use OmegaT, from zero to zen. Contributions (suggestions for better wording, new topics, flagged typos or errata, etc.) are also welcome.
+These are the steps you must follow to
 
+1. Ask the maintainer of the repository to give you PR rights (#TEST)
+2. Clone the repository in your local machine or, if you already did that, fetch the latest version.
+3. Make changes to the repository
+4. Stage your changed/new changed files, commit and push.
 
+It's important that you fetch the latest versions every time you intend to push changes, to make sure you work on the latest version and avoid conflicts.
 
-Each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+_____
 
 Requirements for the video platform:
 - unfinished episodes should resume where the user stopped watching
@@ -52,3 +59,7 @@ how to add capstan icon to the bottom right of a video?
 Let us know in the comments what are your favourite parts of this OmegaT function or what difficultinges you're havingt to use it, because we'd love to know that.
 
 And I will see you in the next episode.
+
+## Markdown basics
+
+Link to tutorial
