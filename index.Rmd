@@ -39,3 +39,4 @@ Contributions (suggestions for better wording, new topics, flagged typos or erra
 * How can I insert an image before the first #header/title?
 * Is it possible to have an index page without a header?
 * Make size of title bigger
+* how do I customize twitter and facebook buttons? can I add linkedin?

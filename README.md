@@ -30,6 +30,7 @@ This course is free of charge, and its purpose is to contribute to the OmegaT co
 
 language experts = translators and reviewrs, verifiers etc.
 
+No login - course open to everyone, you don't need credentials to read this page.
 
 
 Template:

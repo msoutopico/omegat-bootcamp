@@ -7,6 +7,22 @@ There are two possible environments you can use to manage your contributions:
 - [Atom editor](https://atom.io/): allows to fetch and push files as well as to preview changes in the same environment.
 - [Typora](https://atom.io/) + [Github](https://desktop.github.com/): Typora is an awesome markdown editor but you will have to manage git transfers separately (e.g. with the Github desktop app).
 
+https://dillinger.io/
+https://www.shopify.com/partners/blog/10-of-the-best-markdown-editors
+http://markdownpad.com/
+https://www.markdowntutorial.com/
+
+git pull https://github.com/msoutopico/omegat-bootcamp.git main
+
+sudo R
+
+rmarkdown::render_site(encoding = 'UTF-8')
+
+q()
+
+y
+
+
 These are the steps you must follow to
 
 1. Ask the maintainer of the repository to give you PR rights (#TEST)
@@ -25,7 +41,7 @@ in server:
 3. render_site
 4. q y
 
-Do not edit files in the server 
+Do not edit files in the server
 
 rmarkdown::render_site(encoding = 'UTF-8')
 

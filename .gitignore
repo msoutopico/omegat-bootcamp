@@ -8,3 +8,4 @@ _build.sh
 _output.yml
 _bookdown.yml
 Dockerfile
+.DS_Store
