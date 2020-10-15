@@ -40,3 +40,4 @@ Contributions (suggestions for better wording, new topics, flagged typos or erra
 * Is it possible to have an index page without a header?
 * Make size of title bigger
 * how do I customize twitter and facebook buttons? can I add linkedin?
+* Is it possible to include/import .Rmd files so as to reuse one same file in different places?
