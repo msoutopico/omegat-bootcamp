@@ -103,9 +103,9 @@ Let us know in the comments what are your favourite parts of this OmegaT functio
 
 And I will see you in the next episode.
 
-## Link to video... 
+## Link to video...
 
-Watch Now This tutorial has a related video course created by the Real Python team. Watch it together with the written tutorial to deepen your understanding:
+Watch Now This tutorial has a related video course created by the cApStAn tech team. Watch it together with the written tutorial to deepen your understanding:
 
 
 ## Markdown basics
