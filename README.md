@@ -6,6 +6,9 @@ This is a minimal example of a book based on R Markdown and **bookdown** (https:
 This is a self-paced [OmegaT](https://omegat.org/) course for language experts and project managers. It is brought to you by [cApStAn](https://www.capstan.be), initially conceived and developed to train cApStAn's subcontractors (language experts, translators, reviewers and verifiers) and partners who need to use OmegaT. However, it is free to use for anyone interested in learning to use OmegaT, from zero to zen. Contributions (suggestions for better wording, new topics, flagged typos or errata, etc.) are also welcome.
 
 
+At the beginning of each video, summary of what was done in the previous episode or section. 
+At the end of each video: heads-up of what will be covered in the next video, and "Alright, thanks for watching! Happy work in OmegaT and talk to you in the next video."
+
 
 Each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
 
