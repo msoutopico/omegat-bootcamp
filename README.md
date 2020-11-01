@@ -1,6 +1,10 @@
 This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for how to compile this example into HTML. You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
 
 
+
+00:00 Hey, and welcome to the next video in our OmegaT bootcamp. In this video, we’re going to talk about [TOPIC]: HOW YOU CAN DO X AND DO Y
+
+
 # OmegaT Bootcamp
 
 This is a self-paced [OmegaT](https://omegat.org/) course for language experts and project managers. It is brought to you by [cApStAn](https://www.capstan.be), initially conceived and developed to train cApStAn's subcontractors (language experts, translators, reviewers and verifiers) and partners who need to use OmegaT. However, it is free to use for anyone interested in learning to use OmegaT, from zero to zen. Contributions (suggestions for better wording, new topics, flagged typos or errata, etc.) are also welcome.
